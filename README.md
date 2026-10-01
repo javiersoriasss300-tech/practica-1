@@ -1,2 +1,2 @@
 # practica-1
-ejercicio 1 
+Este es el primer ejercicios de una serie de 30 ejercicios
